@@ -1,0 +1,25 @@
+h1 {
+    color: indigo;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+body {
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hobby1, .hobby2, .hobby3 {
+    background-color: lavender;
+    border: 2px dashed blueviolet;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+
+.hobby1:hover, .hobby2:hover, .hobby3:hover {
+    background-color: thistle;
+} 

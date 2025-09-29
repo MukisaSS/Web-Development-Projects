@@ -1,0 +1,23 @@
+body {
+    background-color: mintcream;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    line-height: 1.5;
+}
+
+table {
+    display: table;
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+th, td {
+    border: 2px solid black;
+    width: 35%;
+    padding: 15px;
+    text-align: center;
+}
+

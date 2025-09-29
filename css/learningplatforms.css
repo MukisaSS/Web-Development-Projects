@@ -1,0 +1,29 @@
+h1 {
+    color: darkred;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+li {
+    list-style: disc;
+}
+
+body {
+    background-color: lavenderblush;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    background-color: lightcyan;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h1:hover {
+    color: orangered;
+}

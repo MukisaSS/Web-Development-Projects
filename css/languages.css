@@ -1,0 +1,24 @@
+h1 {
+    color: darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+p, ol {
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+ol {
+    list-style: upper-roman;
+    border: 3px solid black;
+    margin: 40px auto;
+    padding-left: 45px;
+    width: 30%;
+    font-weight: bold;
+    border-radius: 10px
+}

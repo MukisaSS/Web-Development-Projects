@@ -1,0 +1,22 @@
+h1 {
+    color: darkred;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+body {
+    background-color: seashell;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.desk-items {
+    background-color: khaki;
+    padding: 25px;
+    border: 2px solid goldenrod;
+    border-radius: 15px;
+    width: 70%;
+    margin: 30px auto;
+}

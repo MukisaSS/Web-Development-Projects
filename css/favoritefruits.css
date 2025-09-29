@@ -1,0 +1,20 @@
+body {
+    background-color: lavender;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    list-style-type: circle;
+}
+
+li:hover {
+    color: mediumgreen;
+}
