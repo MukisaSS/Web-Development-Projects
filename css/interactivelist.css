@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+    margin: 15px;
+}
+
+header h1 {
+    color: navy;
+    text-align: center;
+}
+#newItem {
+    padding: 10px;
+    border-radius: 5px;
+    width: 50%;
+}
+
+#add-item {
+    background-color: dodgerblue;
+    color: white;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+#add-item:hover {
+    cursor: pointer;
+}
+
+ul {
+    margin-top: 10px;
+    list-style: square;
+    padding-left: 10px;
+}
